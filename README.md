@@ -1,7 +1,6 @@
-<p align="center">
-    <img src="https://github.com/olimorris/botdetector/assets/9512444/ac241a2f-f98a-47d7-a7ff-144adb5a0b03">
-</p>
-
+<!-- <p align="center"> -->
+<!--     <img src="https://github.com/olimorris/botdetector/assets/9512444/ac241a2f-f98a-47d7-a7ff-144adb5a0b03"> -->
+<!-- </p> -->
 <h1 align="center">Bot Detector</h1>
 
 <p align="center">
